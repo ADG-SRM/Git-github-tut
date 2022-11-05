@@ -3,3 +3,4 @@
 3. Check for n-digit arm-strong number
 4. Merge Sort
 5. Bubble sort
+6. Pagefault
